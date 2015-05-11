@@ -1,10 +1,10 @@
-navigation:
-  container:
-    - particle-menu
-
 header:
   container: 
     - position-header
+
+navigation:
+  container:
+    - particle-menu
 
 showcase:
   container:
