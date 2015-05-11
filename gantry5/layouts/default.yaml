@@ -1,0 +1,40 @@
+navigation:
+  container:
+    - particle-menu
+
+header:
+  container: 
+    - position-header
+
+showcase:
+  container:
+    - position-showcase
+    
+feature:
+  container:
+    - position-feature
+
+main-top:
+  container:
+    - position-main-top
+
+container:
+  1:
+    - sidebar-left 20:
+      - position-sidebar-left
+    - main 60:
+      - pagecontent
+    - sidebar-right 20:
+      - position-sidebar-right
+     
+main-bottom:
+  container:
+    - position-main-bottom
+    
+subfeature:
+  container:
+    - position-subfeature
+    
+footer:
+  container:
+    - position-footer
